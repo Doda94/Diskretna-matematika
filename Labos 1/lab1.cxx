@@ -17,7 +17,7 @@ ll dp[15001];
 
 void input() {
   // test case iz primjera
-  //   freopen("test.txt", "r", stdin);
+  // freopen("test.txt", "r", stdin);
 
   for (int i = 0; i < 5; i++) {
     cout << "Unesite broj vrecica caja " << cajevi[i] << " (parametar "
@@ -47,9 +47,9 @@ int main() {
     }
   }
 
-  // for (int i = 0; i <= n; i++) {
-  //   cout << "dp[" << i << "] = " << dp[i] << endl;
-  // }
+  //   for (int i = 0; i <= n; i++) {
+  // cout << "dp[" << i << "] = " << dp[i] << endl;
+  //   }
 
   //   cout << dp[n];
 
